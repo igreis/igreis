@@ -1,14 +1,17 @@
-## Ola! eu sou o Igor Reis 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Igor+Reis;Sou+estudante+do+4º+período;do+Curso+de+Ciências+da+Computação;)](https://git.io/typing-svg)
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-reis-a9b522266/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ig.reiis/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 ## GitHub Stats
 
-![igreis GitHub stats](https://github-readme-stats.vercel.app/api?username=igreis&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igreis&layout=compact)
+<div style="flex: 1; flex-direction: row; width: 100%" align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igreis&show_icons=true&bg_color=00000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igreis&layout=compact&langs_count=7&theme=react"/>
+</div>
 
 ### Tecnologias
+
 <div>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whi" alt= "typescript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "javascript">
